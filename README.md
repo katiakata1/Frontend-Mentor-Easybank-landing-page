@@ -1,5 +1,9 @@
 # Frontend-Mentor-Easybank-landing-page :bulb:
 I have completed my first responsive landing page using HTML, CSS (SCSS) and JS in one week. I used many online resources such us youtube tutorials (super helpful lady - Coder Coder), css-tricks.com, codepen.io and a "HTML&amp;CSS"/"JavaScript&amp;JQuery" textbooks by Jon Duckett to finish this challenge.
 
-You can find a video recording of the user interface and main features of the webpage by following this link :movie_camera: :
-https://drive.google.com/drive/u/0/folders/1u1yrhcQ17k4JfWgFsbilWJ101d5pWjJs 
+
+In order to show you the landing page, I have depployed the application using AWS S3 Bucket service :))
+You can check out the website by following the link below:
+http://mywebsite1234588.s3-website-us-west-2.amazonaws.com/# 
+
+
